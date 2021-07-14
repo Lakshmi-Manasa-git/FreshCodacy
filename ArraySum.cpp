@@ -7,6 +7,7 @@ using namespace std;
 // in an array of size n
 int sum(int arr[], int n)
 {
+ //test
     int sum = 0; // initialize sum
  
     // Iterate through all elements
